@@ -14,8 +14,14 @@ body {
 .header--secondary {
     font-weight: 300;
     font-size: 42px;
-    color: #ffffff
+    color: #ffffff;
 }
+
+.header--sub-header {
+    font-size: 21;
+    color: grey;  
+} 
+
 
 /* LINKS */
 .link--cta {
